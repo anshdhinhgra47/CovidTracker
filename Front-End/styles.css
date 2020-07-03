@@ -1,0 +1,57 @@
+body{
+    background-color: rgb(19, 17, 17);
+    overflow-x: hidden;
+}
+
+/* .jumbotron{
+} */
+
+.main-heading{
+    margin: auto 0px;
+}
+
+.world-count{
+    border: 2px solid white;
+    height: 6em;
+}
+
+.world-map{
+    border: 2px solid white;
+    height: 32em;
+
+}
+
+.total-deaths{
+    border: 2px solid white;
+    height: 18em;
+
+}
+
+.deaths-by-state{
+    border: 2px solid white;
+    height: 18em;
+
+}
+
+.confirmed-cases{
+    border: 2px solid white;
+    height: 25em;
+    position: absolute;
+    top: 50%;
+}
+
+.graphs{
+    border: 2px solid white;
+    height: 18em;
+    position: absolute;
+    top: 80%;
+    right:10%;
+
+}
+
+.country-specific{
+    border: 2px solid white;
+    height: 8em;
+    position: absolute;
+    left: 22.5%;
+}
